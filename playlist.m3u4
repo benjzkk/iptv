@@ -1,4 +1,3 @@
 #EXTM3U
-
-#EXTINF:-1,UCH
+#EXTINF:-1 tvg-name="UCH" group-title="TV",UCH
 https://ym9yzq.fubohd.com/mls1es/mono.m3u8?token=0acae005ee15d31640a05b015d1c0994937004d2-b1-1769325574-1769307574
