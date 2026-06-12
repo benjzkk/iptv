@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="example" group-title="example",example
+example.m3u8
