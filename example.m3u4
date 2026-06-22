@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="example" group-title="example",example
-example.m3u8
+#EXTINF:-1 tvg-name="TNT Sports Premium" group-title="Deportes",TNT Sports Premium
+https://mivra.vivolatamz.org/max1/tracks-v1a1/mono.m3u8?ip=179.60.65.211&token=c4db83b3490e11eccb513a4daec6765ec40b75a9-68-1782131440-1782077440
